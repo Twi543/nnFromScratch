@@ -1,3 +1,8 @@
+#hiiiiii
+
+
+
+
 import numpy as np 
 import Data *
 
